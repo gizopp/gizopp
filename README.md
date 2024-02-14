@@ -1,4 +1,4 @@
-## Hey, be welcome! I'm Giovana Zopelaro.
+# Hey, be welcome! I'm Giovana Zopelaro.
 
 #### I'm a dedicated software developer with a knack for crafting solutions using Delphi and SQL. Currently, I'm expanding my horizons by diving into the world of web development, with a focus on mastering HTML, CSS, and JavaScript. I believe in the power of creating engaging and user-friendly interfaces that enhance the overall user experience.
 
