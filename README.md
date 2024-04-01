@@ -3,8 +3,10 @@
 #### I'm a dedicated software developer with a knack for crafting solutions using Delphi and SQL. Currently, I'm expanding my horizons by diving into the world of web development, with a focus on mastering HTML, CSS, and JavaScript. I believe in the power of creating engaging and user-friendly interfaces that enhance the overall user experience.
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gizopp&show_icons=true&theme=dark"/>
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gizopp&theme=dark"/></br>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizopp&layout=compact&theme=dark"/>
 </div>
+
 
 ### Programming Skills
 
