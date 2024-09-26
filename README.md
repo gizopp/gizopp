@@ -19,7 +19,7 @@
 
 ## Let's talk? Here is my contact
 - 📧 Email: <a href="mailto:giovanazoppelaro@gmail.com?">giovanazoppelaro@gmail.com<a/>
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gizopp">linkedin.com/in/giovana-zopelaro/<a/>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gizopp">linkedin.com/in/gizopp<a/>
 - 📞 Phone Number: <a href="https://api.whatsapp.com/send/?phone=5548988433636&text&type=phone_number&app_absent=0">+55 (48) 9 8843 3636<a/>
 
 ### Let's build something amazing together :)
