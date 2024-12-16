@@ -1,6 +1,6 @@
 # Hey, there 👋! I'm Giovana Zopelaro.
 
-I'm a Software Developer specializing in TypeScript, React Native, and Next.js, with a background in Delphi. I've built management dashboards, enhanced ERP systems, and integrated APIs across various sectors. Skilled in MySQL, PostgreSQL, SQL Server, Git, Jira, BitBucket, Jenkins, FastReport, QuickReport, and agile methodologies like Scrum, TDD, and Kanban.
+I'm a Software Developer specializing in TypeScript, React Native, and Next.js, with a background in Delphi. I've built management dashboards, enhanced ERP systems, and integrated APIs across various sectors. Skilled in MySQL, PostgreSQL, SQL Server, Git, Jira, BitBucket, Jenkins, and agile methodologies like Scrum, TDD, and Kanban.
 
 Currently, I'm studying Analysis and Systems Development at the Federal Institute of Santa Catarina. Always learning and growing in the tech world.
 
